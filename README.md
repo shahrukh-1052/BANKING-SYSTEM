@@ -19,8 +19,7 @@ Welcome to the **Bank Management System**, a Python-based command-line applicati
     - [Banking Facilities](#banking-facilities)
     - [Date/Time Functions](#datetime-functions)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 ---
 
@@ -140,4 +139,3 @@ For any queries or issues, feel free to connect with us through our social media
 
 - **LinkedIn**: [MOHAMMED HABEEBUDDIN](https://www.linkedin.com/in/mohammed-habeebuddin-a108ab288/)
 
-Thank you for choosing the **Bank Management System**. We hope it makes managing your accounts simpler and more efficient!
