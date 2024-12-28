@@ -1,4 +1,4 @@
-# Bank Management System
+# Banking Management System
 
 Welcome to the **Bank Management System**, a Python-based command-line application designed to efficiently manage bank accounts. This system offers a variety of features such as account management, transactions, and banking facilities to enhance user experience.
 
